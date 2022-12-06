@@ -19,12 +19,10 @@
 
 /* TO CUSTOMIZE THE THEME, UNCOMMENT THE LINES BELOW AND REPLACE THE VARIABLES */
 
-/* REMOVE THIS LINE TO UNCOMMENT
 
 :root {
-  --background: #000700 !important;
+  --background: #4aef89 !important; /*  default: #000700   */
   --text-color: #4AEF98 !important;
   --highlight: var(--text-color) !important;
 }
 
-   REMOVE THIS LINE TO UNCOMMENT ASWELL */
